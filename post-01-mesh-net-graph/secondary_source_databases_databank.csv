@@ -1,0 +1,23 @@
+MEDLINE Databank Name Abbreviation,Databank Full Name
+BioProject,BioProject Database (NIH/NLM)
+dbGaP,Database of Genotypes and Phenotypes (NIH/NLM)
+dbSNP,Database of Short Genetic Variations (NIH/NLM)
+dbVar,Database of Genomic Structural Variation (NIH/NLM)
+Dryad,Dryad
+figshare,figshare
+GDB,Johns Hopkins University Genome Data Bank (ceased in 2008)
+GENBANK,GenBank Nucleic Acid Sequence Database (NIH/NLM)
+GEO,Gene Expression Omnibus Database (NIH/NLM)
+OMIM,Mendelian Inheritance in Man (McKusick)
+PDB,Protein Data Bank (NIH/NLM)
+PIR,Protein Identification Resource
+PubChem-BioAssay,PubChem BioAssay Database (NIH/NLM)
+PubChem-Compound,PubChem Compound Database (NIH/NLM)
+PubChem-Substance,PubChem Substance Database (NIH/NLM)
+RefSeq,Reference Sequence Database (NIH/NLM)
+SRA,Sequence Read Archive (SRA) Database (NIH/NLM)
+SWISSPROT,Protein Sequence Database
+UniMES,UniProt Metagenomic and Environmental Sequences Database
+UniParc,UniProt Archive Database
+UniProtKB,UniProt Knowledgebase Database
+UniRef,UniProt Reference Clusters Database
